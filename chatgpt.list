@@ -5,3 +5,10 @@ DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
+# my proxy
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripe.com
