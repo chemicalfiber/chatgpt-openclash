@@ -1,0 +1,9 @@
+# 私人使用需要代理的列表
+
+# VRChat资源
+DOMAIN,d348imysud55la.cloudfront.net
+DOMAIN,files.vrchat.cloud
+DOMAIN,assets.vrchat.com
+
+# cloudflare
+DOMAIN-SUFFIX,cloudflare.com
