@@ -57,6 +57,8 @@ DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
 
 # GFW list
+DOMAIN-SUFFIX,lolicon.app
+DOMAIN-SUFFIX,ivonblog.com
 DOMAIN-SUFFIX,gfwlist.start
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
