@@ -6,7 +6,9 @@
 
 使用方法(到openclash配置文件处更新订阅链接)
 
-    https://api.dler.io/sub?target=clash&new_name=true&url=你的订阅链接（URL编码）&config=https%3A%2F%2Fraw.githubusercontent.com%2Fchemicalfiber%2Fchatgpt-openclash%2Fmain%2FFull.ini
+    http://你的subconverter后端地址/sub?target=clash&new_name=true&url=你的订阅链接（URL编码）&config=https%3A%2F%2Fraw.githubusercontent.com%2Fchemicalfiber%2Fchatgpt-openclash%2Fmain%2FFull.ini
+
+> 为了你的节点安全,请尽可能使用自建subconverter转换后端服务,不要依赖第三方subconverter
     
 控制面板中，chatGPT可以进行单独的节点选择
 
