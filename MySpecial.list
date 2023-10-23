@@ -2,8 +2,8 @@
 
 # VRChat资源
 DOMAIN,d348imysud55la.cloudfront.net
-DOMAIN,files.vrchat.cloud
-DOMAIN-KEYWORD,vrchat.com
+# DOMAIN,files.vrchat.cloud
+DOMAIN-KEYWORD,vrchat
 
 # cloudflare
 DOMAIN-SUFFIX,cloudflare.com
